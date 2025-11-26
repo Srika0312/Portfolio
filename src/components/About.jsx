@@ -29,11 +29,9 @@ const About = () => {
                         </div>
 
                         <div className="about-text">
-                            <h3 className="about-subtitle gradient-text">Passionate 3D Artist</h3>
+                            <h3 className="about-subtitle gradient-text">SRIKANTH PATHMANAABAN</h3>
                             <p className="about-description">
-                                With over 5 years of experience in 3D art and design, I specialize in creating
-                                stunning characters, immersive environments, and detailed props for games,
-                                films, and interactive experiences.
+                                As a dedicated 3D artist, I specialize in creating high-quality characters, immersive environments, and detailed props for animations, products, and interactive experiences. I focus on clean modeling, expressive animation, and cinematic presentation to bring ideas to life.
                             </p>
                             <p className="about-description">
                                 My work combines technical expertise with creative vision, bringing ideas to
